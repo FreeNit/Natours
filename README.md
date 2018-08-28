@@ -1,3 +1,3 @@
 # Natours
 
-# 20.08.2017 - finished practical design pattern (commented in index.html file)
+# 28.08.2018 - Added style for "Section-About"
