@@ -1,3 +1,3 @@
 # Natours
 
-# 30.08.2018 - Add and style "Feature Box"
+# 02.09.2018 - Add finished style for Card: Front side
