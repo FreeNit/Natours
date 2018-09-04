@@ -1,3 +1,3 @@
 # Natours
 
-# 02.09.2018 - Add finished style for Card: Front side
+# 04.09.2018 - Finished Card Section
