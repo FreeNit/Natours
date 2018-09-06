@@ -1,3 +1,3 @@
 # Natours
 
-# 05.09.2018 - Navigation element: finished styling and animation 
+# 05.09.2018 - Popup element: add markup, content, style
