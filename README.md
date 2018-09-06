@@ -1,3 +1,3 @@
 # Natours
 
-# 05.09.2018 - Navigation: basic markuped and styled 
+# 05.09.2018 - Navigation element: finished styling and animation 
