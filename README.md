@@ -1,3 +1,3 @@
 # Natours
 
-# 05.09.2018 - Popup element: add markup, content, style
+# 07.09.2018 -  Writing Media Queries - Base, Typography and Layout
